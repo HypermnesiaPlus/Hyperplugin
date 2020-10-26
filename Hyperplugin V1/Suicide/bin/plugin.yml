@@ -1,0 +1,7 @@
+main: me.hypermnesia.suicide.Main
+name: Suicide
+version: 1.0
+author: Hypermnesia
+
+commands:
+  Suicide:

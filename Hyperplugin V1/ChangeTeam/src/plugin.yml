@@ -1,0 +1,8 @@
+main: me.hypermnesia.changeteam.Main
+name: ChangeTeam
+version: 1.0
+author: Hypermnesia
+api-version: 1.13
+
+commands:
+  changeteam:

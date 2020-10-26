@@ -1,0 +1,7 @@
+main: me.hypermnesia.hhelp.Main
+name: HHelp
+version: 1.8
+author: Hypermnesia
+
+commands:
+  hhelp:

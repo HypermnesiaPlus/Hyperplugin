@@ -1,0 +1,8 @@
+main: me.hypermnesia.Launchcmd.Main
+name: Launch
+version: 1.2
+author: Hypermnesia
+
+commands:
+  launch:
+    aliases: lch
