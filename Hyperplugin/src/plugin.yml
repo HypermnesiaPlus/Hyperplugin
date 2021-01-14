@@ -1,0 +1,41 @@
+main: me.hypermnesia.hyperplugin.Main
+name: Hyperplugin
+version: 5.0.1
+author: Hypermnesia
+api-version: 1.13
+
+commands:
+  airstrikemarker:
+    aliases: asm
+  botify:
+  changeteam:
+  froggielegs:
+  getaway:
+  hyperhelp:
+  launch:
+    aliases: lch
+  medic:
+  omegatrident:
+  opaxe:
+  pvp:
+  skydive:
+  suicide:
+  whitefart:
+  creator:
+  slap:
+  mymeth:  
+  antiforest:
+  link:
+  spawn:
+  tracker:
+  verify: 
+  brainstorm:
+  timemaster:
+  bootsofzeus:
+  boomhelm:
+  idenitytheft:
+  renameitem:
+  unnaturalregeneration:
+  smokebomb:
+  enderbow:
+  

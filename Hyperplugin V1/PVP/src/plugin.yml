@@ -1,8 +1,0 @@
-main: me.hypermnesia.PVP.Main
-name: PVP
-version: 1.0
-author: Hypermnesia
-api-version: 1.13
-
-commands:
-  PVP:

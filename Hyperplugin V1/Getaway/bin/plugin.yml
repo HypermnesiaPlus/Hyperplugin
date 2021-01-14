@@ -1,8 +1,0 @@
-main: me.hypermnesia.Getaway.Main
-name: Getaway
-version: 1.0
-author: Hypermnesia
-api-version: 1.13
-
-commands:
-  getaway:

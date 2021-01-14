@@ -1,7 +1,0 @@
-main: me.hypermnesia.Medic.Main
-name: Medic
-version: 1.0
-author: Hypermnesia
-
-commands:
-  Medic:

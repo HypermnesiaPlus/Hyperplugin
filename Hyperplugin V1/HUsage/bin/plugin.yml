@@ -1,7 +1,0 @@
-main: me.hypermnesia.husage.Main
-name: HUsage
-version: 1.0
-author: Hypermnesia
-
-commands:
-  husage:

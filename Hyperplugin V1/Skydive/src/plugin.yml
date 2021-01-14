@@ -1,7 +1,0 @@
-main: me.hypermnesia.Skydive.Main
-name: Skydive
-version: 1.0
-author: Hypermnesia
-
-commands:
-  skydive:

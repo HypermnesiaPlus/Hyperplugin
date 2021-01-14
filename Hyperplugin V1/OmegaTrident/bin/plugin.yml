@@ -1,8 +1,0 @@
-main: me.hypermnesia.OmegaTrident.Main
-name: OmgeaTrident
-version: 1.0
-author: Hypermnesia
-api-version: 1.13
-
-commands:
-  omegatrident:

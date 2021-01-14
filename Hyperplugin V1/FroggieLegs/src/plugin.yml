@@ -1,8 +1,0 @@
-main: me.hypermnesia.FroggieLegs.Main
-name: FroggieLegs
-version: 1.1
-author: Hypermnesia
-api-version: 1.13
-
-commands:
-  FroggieLegs:
