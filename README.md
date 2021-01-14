@@ -1,11 +1,15 @@
 # Hyperplugin
-Hyperplugin is in developement don't bother me.
-actually bother me i like company
-please do
-discord is Hypermnesia#6007
-spam my dms thank
+  Hyperplugin is in developement.
+  Currently "Hyperplugin" is in Version 5.0.0.
+  I push updates to my github repo whenever I feel like it.
+  If you really want updates spam my discord dms.
+  My discord is Hypermnesia#6007
+  If ya got issues open a issue/pull request.
+  ok im done here good day.
+  
 
-# license
+
+# License
 
                                Apache License
                            Version 2.0, January 2004
