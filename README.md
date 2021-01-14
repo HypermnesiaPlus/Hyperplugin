@@ -7,6 +7,8 @@
   If ya got issues open a issue/pull request.
   ok im done here good day.
   
+  
+  Also this project is licensed my the apache license version 2.0
 
 
 # License
