@@ -60,7 +60,6 @@ public class Tracker implements Listener, CommandExecutor {
         return compass;
     }
 
-    @SuppressWarnings("unused")
     private final Main plugin;
     public Tracker(Main plugin) {
         this.plugin = plugin;

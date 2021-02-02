@@ -1,6 +1,6 @@
 main: me.hypermnesia.hyperplugin.Main
 name: Hyperplugin
-version: 5.0.1
+version: 1.5.5
 author: Hypermnesia
 api-version: 1.13
 
@@ -38,4 +38,10 @@ commands:
   unnaturalregeneration:
   smokebomb:
   enderbow:
+  detonate:
+  flambe:
+      aliases: flamethrower
+  expose:
+  napalm:
+  
   
