@@ -1,6 +1,7 @@
 # Hyperplugin
   Hyperplugin is in developement.
   - no longer updating it cuz yes
+  
   Currently "Hyperplugin" is in Version 5.0.0.
   I push updates to my github repo whenever I feel like it.
   If you really want updates spam my discord dms.
