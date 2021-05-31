@@ -1,5 +1,6 @@
 # Hyperplugin
   Hyperplugin is in developement.
+  - no longer updating it cuz yes
   Currently "Hyperplugin" is in Version 5.0.0.
   I push updates to my github repo whenever I feel like it.
   If you really want updates spam my discord dms.
@@ -7,12 +8,14 @@
   If ya got issues open a issue/pull request.
   ok im done here good day.
   
-  Fun Fact: Developement for "Hyperplugin" started on September 30, 2020.
+  Fun Fact: Developement for "Hyperplugin" started on September 17, 2020.
   
-  Also this project is licensed my the apache license version 2.0
+  Also this project is licensed by the apache license version 2.0
 
+  - this thing is stupid old. damn i was bad at java back then. check out my latest repo if you want to see my up to date java skills.
 
 # License
+i ran out of things to put in the readme ok
 
                                Apache License
                            Version 2.0, January 2004
